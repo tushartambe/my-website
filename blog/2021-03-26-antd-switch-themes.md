@@ -1,6 +1,6 @@
 ---
 slug: antd-switch-themes
-title: Switching between themes in antd
+title: Switching between themes in react and antd
 author: Tushar Tambe
 author_title: Application Developer @ThoughtWorks
 author_url: https://github.com/tushartambe
