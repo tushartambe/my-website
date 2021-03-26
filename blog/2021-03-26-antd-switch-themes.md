@@ -14,6 +14,11 @@ This blog cum tutorial will solve your problem.
 
 <!--truncate-->
 
+<br/>
+<br/>
+
+![Switching Themes](./assets/antd-theme-switch.gif)
+
 ### Little about `antd`
 
 Antd also known as **Ant Design** is an open source component library for React. Antd provides very large set of ready made components with built in styling. You can explore and play with it [here](https://ant.design/components/overview/).
@@ -31,7 +36,7 @@ npx create-react-app antd-react-switch-themes
 Start the app
 
 ``` bash
-antd-react-switch-themes && npm start
+cd antd-react-switch-themes && npm start
 ```
 
 ### Add antd
