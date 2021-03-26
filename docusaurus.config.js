@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Welcome',
   tagline: 'Dev Space of Tushar',
-  url: 'tushartambe.netlify.app',
+  url: 'https://tushartambe.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
