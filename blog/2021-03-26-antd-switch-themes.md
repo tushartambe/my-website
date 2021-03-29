@@ -201,6 +201,7 @@ function App() {
 
 export default App;
 ```
+and you're done. Now you can switch between themes🎉.
 
 :::tip
 
